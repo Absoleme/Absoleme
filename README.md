@@ -3,7 +3,7 @@
 <h2> Hi, I'm Absoleme! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<img align='right' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw2CdS5ytO3XXKc15qv1vez5&ust=1627590784995000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjEiqjOhvICFQAAAAAdAAAAABAW' width='200"'>
+<img align='right' src='https://tenor.com/search/computer-gifs' width='200"'>
 
 
 
