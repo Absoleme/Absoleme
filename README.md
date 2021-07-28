@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 <h2> Hi, I'm Absoleme! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='center' src='https://user-images.githubusercontent.com/46051058/127393020-063a7396-41ed-4b05-bd47-c64a44a96367.gif'  width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/46051058/127393020-063a7396-41ed-4b05-bd47-c64a44a96367.gif'  width='200"'>
 
 
 
