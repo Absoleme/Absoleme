@@ -22,6 +22,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 <p align="center">
   <a href="https://github.com/godwinKvg"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Absoleme&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true" style="max-width:100%;">
   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Absoleme&layout=compact&exclude_lang=java+r&theme=shades-of-purple" style="max-width:100%;">
