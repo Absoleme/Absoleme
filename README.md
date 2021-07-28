@@ -29,12 +29,7 @@ let Absoleme = {
   code: [Javascript, Typescript, HTML, CSS, Php, Java],
   tools: [Angular, Docker],
   architecture: ["microservices"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on angular and typescript"
 }
 ```
 
