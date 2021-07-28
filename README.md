@@ -1,5 +1,7 @@
 <!--### Hi there 👋-->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <h2> Hi, I'm Absoleme! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<lottie-player src="https://assets1.lottiefiles.com/packages/lf20_tfqocvhu.json"  align='right' background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 <img align='right' src="https://lottiefiles.com/69395-man-working-on-system" width="230">
 
 
