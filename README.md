@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 <h2> Hi, I'm Absoleme! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://assets1.lottiefiles.com/packages/lf20_tfqocvhu.json" width="230">
+<img align='right' src="https://lottiefiles.com/69395-man-working-on-system" width="230">
 
 
 <!--
