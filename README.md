@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ```javascript
 let Absoleme = {
-  pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Php, Java],
   tools: [Angular, Docker, Spring Boot],
   architecture: ["microservices"]
